@@ -1,4 +1,4 @@
-## Welcome to Spencer Hamilton's Programming Portfolio
+### Welcome to Spencer Hamilton's Programming Portfolio.
 2019
 
 chippyhamilton@gmail.com
