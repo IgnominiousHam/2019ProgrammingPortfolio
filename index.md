@@ -15,7 +15,7 @@ This Processing project consists of an object oriented calculator with features 
 ### Calculator Screenshot
 ![Calculator Screenshot](https://github.com/spenhami9652/2019ProgrammingPortfolio/blob/master/Calculator/Calc.png?raw=true)
 
-Source code for calculator: [https://github.com/spenhami9652/2019ProgrammingPortfolio/tree/master/Calculator/Calc%202](https://github.com/spenhami9652/2019ProgrammingPortfolio/tree/master/Calculator/Calc%202)
+#### Source code for calculator: [https://github.com/spenhami9652/2019ProgrammingPortfolio/tree/master/Calculator/Calc%202](https://github.com/spenhami9652/2019ProgrammingPortfolio/tree/master/Calculator/Calc%202)
 
 ## First Semester Processing Screensaver Application
 ##### Completed Oct. 2018
@@ -26,6 +26,6 @@ Another Processing creation, the object oriented screensaver utilizes random val
 ### Screensaver Screenshot
 ![Screensaver Screenshot](https://github.com/spenhami9652/2019ProgrammingPortfolio/blob/master/Screensaver/Screensaver.png?raw=true)
 
-Source code for screensaver:[https://github.com/spenhami9652/2019ProgrammingPortfolio/tree/master/Screensaver/ScreenSaver](https://github.com/spenhami9652/2019ProgrammingPortfolio/tree/master/Screensaver/ScreenSaver)
+#### Source code for screensaver: [https://github.com/spenhami9652/2019ProgrammingPortfolio/tree/master/Screensaver/ScreenSaver](https://github.com/spenhami9652/2019ProgrammingPortfolio/tree/master/Screensaver/ScreenSaver)
 
 
