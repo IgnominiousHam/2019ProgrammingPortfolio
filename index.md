@@ -7,8 +7,8 @@
 ##### Completed Nov. 2018
 
 
-Object oriented calculator with features including...
+This Processing project consists of an object oriented calculator with features including standard mathematical functions (addition, multiplication, etc.), trigonometric options (sin, cos, and tan), square root evaluation, and a percentage converter. Buttons automatically shade to indicate cursor movement, and a myriad of colors emerge prominent on a desktop.
 
-![Calculator](https://github.com/spenhami9652/2019ProgrammingPortfolio/blob/master/CalculatorDrawing.png?raw=true)
+![Calculator](https://github.com/spenhami9652/2019ProgrammingPortfolio/blob/master/Calculator/Calc.png?raw=true)
 
 [Source code for calculator: ](Link)
