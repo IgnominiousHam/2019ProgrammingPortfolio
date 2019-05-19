@@ -41,12 +41,12 @@ The most convoluted Processing contribution to this portfolio, the Spaceship Gam
 ![SpaceGame GUI](https://github.com/spenhami9652/2019ProgrammingPortfolio/blob/master/SpaceGame/SpaceshipGame.png?raw=true)
 
 ### SpaceGame Start Screen
-![SpaceGame Start Screen](https://github.com/spenhami9652/2019ProgrammingPortfolio/blob/master/SpaceGame/SpaceGameScreenshot.png?raw=true)
+![SpaceGame Start Screen](https://github.com/spenhami9652/2019ProgrammingPortfolio/blob/master/SpaceGame/SpaceGameScreenshot.PNG?raw=true)
 
 ### SpaceGame Screenshot
-![SpaceGame Screenshot](https://github.com/spenhami9652/2019ProgrammingPortfolio/blob/master/SpaceGame/SpaceGameScreenshot1.png?raw=true)
+![SpaceGame Screenshot](https://github.com/spenhami9652/2019ProgrammingPortfolio/blob/master/SpaceGame/SpaceGameScreenshot1.PNG?raw=true)
 
 ### SpaceGame Death Screen
-![SpaceGame Death Screen](https://github.com/spenhami9652/2019ProgrammingPortfolio/blob/master/SpaceGame/SpaceGameScreenshot2.png?raw=true)
+![SpaceGame Death Screen](https://github.com/spenhami9652/2019ProgrammingPortfolio/blob/master/SpaceGame/SpaceGameScreenshot2.PNG?raw=true)
 
 
