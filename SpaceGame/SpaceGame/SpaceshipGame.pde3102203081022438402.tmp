@@ -1,0 +1,83 @@
+// SpaceShip
+// by Spencer Hamilton
+// 2018
+// TODO:
+ArrayList<Asteroid> asteroids;
+ArrayList<Laser> lasers; 
+SpaceShip s1;
+Timer timer;
+int asteroidRate = 1000;
+EnemyShip e1;
+boolean play = false;
+int score = 0; // Used for user score.
+int health = 1000;
+
+void setup() {
+  background(0);
+  size(1000, 1000);
+  s1 = new SpaceShip(mouseX, mouseY, 10);
+  lasers = new ArrayList <Laser> ();
+  asteroids = new ArrayList <Asteroid> ();
+  e1 = new EnemyShip(500, 600, 10);
+  timer = new Timer (asteroidRate);
+  timer.start();
+}
+
+
+void draw() {
+  background(0);
+  noCursor();
+  s1 = new SpaceShip(mouseX, mouseY, 10);
+  s1.display(mouseX, mouseY);
+  //e1.display();
+  for(int i = lasers.size()-1; i>=0;i--) {
+    lasers.get(i).fire();
+    lasers.get(i).display();
+    if (lasers.get(i).reachedTop()) {
+      lasers.remove(i);
+    }
+  }
+  if (timer.isFinished()) {
+    asteroids.add(new Asteroid (-20, (int(random(height))), 10));
+    timer.start();
+  }
+
+
+  for(int i = asteroids.size()-1; i>=0;i--){
+    asteroids.get(i).move();
+    asteroids.get(i).display();
+    if (asteroids.get(i).reachedRight()) {
+      asteroids.remove(i);
+    }
+    //Add Collision Detection Here!
+    for (int j = 0; j < lasers.size(); j++ ) {
+      if (dist(lasers.get(j).x, lasers.get(j).y, asteroids.get(i).x, asteroids.get(i).y)<asteroids.get(i).r) {
+        score++;
+        asteroids.get(i).liv -=10;
+        if(asteroids.get(i).liv < 1){
+        asteroids.remove(asteroids.get(i));
+        }
+        lasers.remove(lasers.get(j));
+      } //Detect an intersection
+    }
+   
+  }
+  updateDisplay();
+}
+void mousePressed() {
+  lasers.add(new Laser(s1.x, s1.y, 2, 10));
+}   
+
+void keyPressed() {
+  if (key== ' ') {
+    lasers.add(new Laser(s1.x, s1.y, 2, 10));
+  }
+}
+
+void updateDisplay() {
+ fill(250);
+ quad(0,1000,0,900,100,900,100,1000);
+ fill(0);
+ text("Score: " + score,10,920);
+ text("Health: " + health, 10,940);
+}
