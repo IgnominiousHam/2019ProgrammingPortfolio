@@ -59,4 +59,6 @@ The most convoluted Processing contribution to this portfolio, the Spaceship Gam
 The date application provides a unique insight into one's existence, furnishing a product offering ample introspection. Inputting the year, month, day, and time of their birth, a user recieves the entirety of their lifespan, measured from seconds to millenia. Accuracy is in no fashion sacrificed for quantity; leap years, and all stipulations thence accompanying, are factored into the equation, and the present time is accessed via Python datetime and time modules.
 
 ### Date Application Screenshot
+![Date Application Screenshot](https://github.com/spenhami9652/2019ProgrammingPortfolio/blob/master/Date/DateScreenshot.PNG?raw=true)
 
+#### Source code for Date Application: [https://github.com/spenhami9652/2019ProgrammingPortfolio/tree/master/Date/Date.py](https://github.com/spenhami9652/2019ProgrammingPortfolio/tree/master/Date/Date.py)
