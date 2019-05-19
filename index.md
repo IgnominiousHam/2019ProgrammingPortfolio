@@ -3,6 +3,7 @@
 ##### chippyhamilton@gmail.com
 
 
+
 ## Processing Calculator
 ##### Completed Nov. 2018
 
@@ -17,6 +18,7 @@ This Processing project consists of an object oriented calculator with features 
 
 #### Source code for calculator: [https://github.com/spenhami9652/2019ProgrammingPortfolio/tree/master/Calculator/Calc%202](https://github.com/spenhami9652/2019ProgrammingPortfolio/tree/master/Calculator/Calc%202)
 
+
 ## Processing Screensaver Application
 ##### Completed Oct. 2018
 
@@ -27,6 +29,7 @@ Another Processing creation, the object oriented screensaver utilizes random val
 ![Screensaver Screenshot](https://github.com/spenhami9652/2019ProgrammingPortfolio/blob/master/Screensaver/Screensaver.png?raw=true)
 
 #### Source code for screensaver: [https://github.com/spenhami9652/2019ProgrammingPortfolio/tree/master/Screensaver/ScreenSaver](https://github.com/spenhami9652/2019ProgrammingPortfolio/tree/master/Screensaver/ScreenSaver)
+
 
 ## Processing Spaceship Game
 ##### Completed Dec. 2018
