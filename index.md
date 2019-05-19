@@ -32,4 +32,4 @@ Another Processing creation, the object oriented screensaver utilizes random val
 ##### Completed Dec. 2018
 
 
-The most convoluted Processing contribution to this portfolio, the Spaceship Game is a side-scrolling 
+The most convoluted Processing contribution to this portfolio, the Spaceship Game is a side-scrolling mania of asteroids, lasers, gold, and a fleet.
