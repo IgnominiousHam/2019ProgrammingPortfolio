@@ -40,7 +40,7 @@ Make-A-Face is a brief Processing sketch employing the random function to distri
 ### Make-A-Face Screenshot
 ![Make-A-Face Screenshot](https://github.com/spenhami9652/2019ProgrammingPortfolio/blob/master/Make-A-Face/line-000689.png)
 
-#### Source code for Make-A-Face: [https://github.com/spenhami9652/2019ProgrammingPortfolio/tree/master/Screensaver/ScreenSaver](https://github.com/spenhami9652/2019ProgrammingPortfolio/tree/master/Screensaver/ScreenSaver)
+#### Source code for Make-A-Face: [https://github.com/spenhami9652/2019ProgrammingPortfolio/blob/master/Make-A-Face/MakeAFace.pde](https://github.com/spenhami9652/2019ProgrammingPortfolio/blob/master/Make-A-Face/MakeAFace.pde)
 
 
 ## Processing Spaceship Game
