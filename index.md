@@ -10,8 +10,8 @@
 
 This Processing project consists of an object oriented calculator with features including standard mathematical functions (addition, multiplication, etc.), trigonometric options (sin, cos, and tan), square root evaluation, and a percentage converter. Buttons automatically shade to indicate cursor movement, and a myriad of colors emerge prominent on a desktop.
 
-### Calculator Mockup
-![Calculator Mockup](https://github.com/spenhami9652/2019ProgrammingPortfolio/blob/master/Calculator/CalculatorDrawing.png?raw=true)
+### Calculator GUI
+![Calculator GUI](https://github.com/spenhami9652/2019ProgrammingPortfolio/blob/master/Calculator/CalculatorDrawing.png?raw=true)
 
 ### Calculator Screenshot
 ![Calculator Screenshot](https://github.com/spenhami9652/2019ProgrammingPortfolio/blob/master/Calculator/Calc.png?raw=true)
@@ -30,6 +30,15 @@ Another Processing creation, the object oriented screensaver utilizes random val
 
 #### Source code for screensaver: [https://github.com/spenhami9652/2019ProgrammingPortfolio/tree/master/Screensaver/ScreenSaver](https://github.com/spenhami9652/2019ProgrammingPortfolio/tree/master/Screensaver/ScreenSaver)
 
+
+## Processing Make-A-Face
+##### Completed Sept. 2018
+
+
+Make-A-Face is a brief Processing sketch employing the random function to distribute the various aspects of a human countenance in different locations and dimentions. Freckles are disseminated in arbitrary, yet constrained points to ensure their appearance on the capriciously sized ellipse; the nose, an arc, curves to varying degrees, while the mouth angle flits from flat to slanted; and eyes, of continuously altered shape and color, present a comical aspect to the piece. A portrait may be captured via a mere click on the canvas. This computerized comic epitomizes the myriad caprices of humanity's distinguishing feature, claiming its podium in the halls of contemporary abstraction.
+
+### Make-A-Face Screenshot
+![Make-A-Face Screenshot](https://github.com/spenhami9652/2019ProgrammingPortfolio/blob/master/Screensaver/Screensaver.png?raw=true)
 
 ## Processing Spaceship Game
 ##### Completed Dec. 2018
