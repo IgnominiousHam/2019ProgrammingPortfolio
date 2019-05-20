@@ -80,6 +80,6 @@ The date application provides a unique insight into one's existence, furnishing 
 ##### Completed May 2019
 
 
-The culmination of this year's toil, Tron emulates the original game in both regulation and gameplay. Two players, armed with "lightcycles", attempt to endure in a war of attrition, with both generating colored trails which, if contacted, spell instant death. Coded with a combination of Python's tkinter and turtle, this collaborative effort features functioning collision and edge detection, a speed-amplifying powerup, start and death screens, and a minimalistly designed bike. In sum, the classic diversion is here duplicated, with modern contributions.
+The culmination of this year's toil, Tron emulates the original game in both regulation and gameplay. Two players, armed with "lightcycles", attempt to endure in a war of attrition, with both generating colored trails which, if contacted, spell instant death. Coded with a combination of Python's tkinter and turtle, this collaborative effort features functioning collision and edge detection, a map replete with precipitous lines, start and death screens, and a minimalistly designed bike.
 
-###
+### 
