@@ -82,4 +82,16 @@ The date application provides a unique insight into one's existence, furnishing 
 
 The culmination of this year's toil, Tron emulates the original game in both regulation and gameplay. Two players, armed with "lightcycles", attempt to endure in a war of attrition, with both generating colored trails which, if contacted, spell instant death. Coded with a combination of Python's tkinter and turtle, this collaborative effort features functioning collision and edge detection, a map replete with precipitous lines, start and death screens, and a minimalistly designed bike.
 
-### 
+### Tron GUI
+![Tron GUI](https://github.com/spenhami9652/2019ProgrammingPortfolio/blob/master/Tron/TronGUI.png)
+
+### Tron Class Diagram
+![Tron Class Diagram](https://github.com/spenhami9652/2019ProgrammingPortfolio/blob/master/Tron/TronClassDiagram.png)
+
+### Tron Start Screen
+![Tron Start Screen](https://github.com/spenhami9652/2019ProgrammingPortfolio/blob/master/Tron/TronStart.png)
+
+### Tron Screenshot
+![Tron Screenshot](https://github.com/spenhami9652/2019ProgrammingPortfolio/blob/master/Tron/TronScreenshot.png)
+
+#### Source code for Tron: 
