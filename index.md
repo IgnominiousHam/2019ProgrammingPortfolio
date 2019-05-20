@@ -38,7 +38,7 @@ Another Processing creation, the object oriented screensaver utilizes random val
 Make-A-Face is a brief Processing sketch employing the random function to distribute the various aspects of a human countenance in different locations and dimentions. Freckles are disseminated in arbitrary, yet constrained points to ensure their appearance on the capriciously sized ellipse; the nose, an arc, curves to varying degrees, while the mouth angle flits from flat to slanted; and eyes, of continuously altered shape and color, present a comical aspect to the piece. A portrait may be captured via a mere click on the canvas. This computerized comic epitomizes the myriad caprices of humanity's distinguishing feature, claiming its podium in the halls of contemporary abstraction.
 
 ### Make-A-Face Screenshot
-![Make-A-Face Screenshot](https://github.com/spenhami9652/2019ProgrammingPortfolio/blob/master/Make-A-Face/line-000689.png)
+![Make-A-Face Screenshot](https://github.com/spenhami9652/2019ProgrammingPortfolio/blob/master/Make-A-Face/line-000689.png?raw=true)
 
 #### Source code for Make-A-Face: [https://github.com/spenhami9652/2019ProgrammingPortfolio/blob/master/Make-A-Face/MakeAFace.pde](https://github.com/spenhami9652/2019ProgrammingPortfolio/blob/master/Make-A-Face/MakeAFace.pde)
 
@@ -83,15 +83,15 @@ The date application provides a unique insight into one's existence, furnishing 
 The culmination of this year's toil, Tron emulates the original game in both regulation and gameplay. Two players, armed with "lightcycles", attempt to endure in a war of attrition, with both generating colored trails which, if contacted, spell instant death. Coded with a combination of Python's tkinter and turtle, this collaborative effort features functioning collision and edge detection, a map replete with precipitous lines, start and death screens, and a minimalistly designed bike.
 
 ### Tron GUI
-![Tron GUI](https://github.com/spenhami9652/2019ProgrammingPortfolio/blob/master/Tron/TronGUI.png)
+![Tron GUI](https://github.com/spenhami9652/2019ProgrammingPortfolio/blob/master/Tron/TronGUI.png?raw=true)
 
 ### Tron Class Diagram
-![Tron Class Diagram](https://github.com/spenhami9652/2019ProgrammingPortfolio/blob/master/Tron/TronClassDiagram.png)
+![Tron Class Diagram](https://github.com/spenhami9652/2019ProgrammingPortfolio/blob/master/Tron/TronClassDiagram.png?raw=true)
 
 ### Tron Start Screen
-![Tron Start Screen](https://github.com/spenhami9652/2019ProgrammingPortfolio/blob/master/Tron/TronStart.png)
+![Tron Start Screen](https://github.com/spenhami9652/2019ProgrammingPortfolio/blob/master/Tron/TronStart.png?raw=true)
 
 ### Tron Screenshot
-![Tron Screenshot](https://github.com/spenhami9652/2019ProgrammingPortfolio/blob/master/Tron/TronScreenshot.png)
+![Tron Screenshot](https://github.com/spenhami9652/2019ProgrammingPortfolio/blob/master/Tron/TronScreenshot.png?raw=true)
 
 #### Source code for Tron: [https://github.com/spenhami9652/2019ProgrammingPortfolio/blob/master/Tron/Tron.py](https://github.com/spenhami9652/2019ProgrammingPortfolio/blob/master/Tron/Tron.py)
