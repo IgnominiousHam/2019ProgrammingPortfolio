@@ -74,3 +74,12 @@ The date application provides a unique insight into one's existence, furnishing 
 ![Date Application Screenshot](https://github.com/spenhami9652/2019ProgrammingPortfolio/blob/master/Date/DateScreenshot.PNG?raw=true)
 
 #### Source code for Date Application: [https://github.com/spenhami9652/2019ProgrammingPortfolio/blob/master/Date/date2-1.py](https://github.com/spenhami9652/2019ProgrammingPortfolio/blob/master/Date/date2-1.py)
+
+
+## Tron Group Project
+##### Completed May 2019
+
+
+The culmination of this year's toil, Tron emulates the original game in both regulation and gameplay. Two players, armed with "lightcycles", attempt to endure in a war of attrition, with both generating colored trails which, if contacted, spell instant death. Coded with a combination of Python's tkinter and turtle, this collaborative effort features functioning collision and edge detection, a speed-amplifying powerup, start and death screens, and a minimalistly designed bike. In sum, the classic diversion is here duplicated, with modern contributions.
+
+###
