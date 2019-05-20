@@ -38,7 +38,10 @@ Another Processing creation, the object oriented screensaver utilizes random val
 Make-A-Face is a brief Processing sketch employing the random function to distribute the various aspects of a human countenance in different locations and dimentions. Freckles are disseminated in arbitrary, yet constrained points to ensure their appearance on the capriciously sized ellipse; the nose, an arc, curves to varying degrees, while the mouth angle flits from flat to slanted; and eyes, of continuously altered shape and color, present a comical aspect to the piece. A portrait may be captured via a mere click on the canvas. This computerized comic epitomizes the myriad caprices of humanity's distinguishing feature, claiming its podium in the halls of contemporary abstraction.
 
 ### Make-A-Face Screenshot
-![Make-A-Face Screenshot](https://github.com/spenhami9652/2019ProgrammingPortfolio/blob/master/Screensaver/Screensaver.png?raw=true)
+![Make-A-Face Screenshot](https://github.com/spenhami9652/2019ProgrammingPortfolio/blob/master/Make-A-Face/line-000689.png)
+
+#### Source code for Make-A-Face: [https://github.com/spenhami9652/2019ProgrammingPortfolio/tree/master/Screensaver/ScreenSaver](https://github.com/spenhami9652/2019ProgrammingPortfolio/tree/master/Screensaver/ScreenSaver)
+
 
 ## Processing Spaceship Game
 ##### Completed Dec. 2018
